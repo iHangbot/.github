@@ -14,13 +14,13 @@
 ### Screen :iphone:
 | 시작 화면 | 챗봇 화면 | 
 | :---: | :---: | 
-| <img width="487" alt="화면1" src="https://github.com/iHangbot/.github/assets/85922192/cf3a4e8f-53bb-4bd5-8828-0aa1007a5579"> | <img width="487" alt="화면2" src="https://github.com/iHangbot/.github/assets/85922192/ec7e863d-831d-4e44-805b-a46f91ecd94f"> |
+| <img width="350" alt="화면1" src="https://github.com/iHangbot/.github/assets/85922192/cf3a4e8f-53bb-4bd5-8828-0aa1007a5579"> | <img width="350" alt="화면2" src="https://github.com/iHangbot/.github/assets/85922192/ec7e863d-831d-4e44-805b-a46f91ecd94f"> |
 | 초기 등장 화면 | STT/TTS를 통한 챗봇 대화 기능 | 
 
 | 보고서 화면 1/2 | 보고서 화면 2/2 | 
 | :---: | :---: | 
-| <img width="487" alt="화면3" src="https://github.com/iHangbot/.github/assets/85922192/c91ff96f-9e25-470d-8f23-9ef5a9383c48"> | <img width="486" alt="화면4" src="https://github.com/iHangbot/.github/assets/85922192/ae4af4ce-1cf2-4962-b112-c96e653ab472"> |
-| 키워드, 관심사 제공 화면 | 감정, 제안 제공 화면 | 
+| <img width="350" alt="화면3" src="https://github.com/iHangbot/.github/assets/85922192/c91ff96f-9e25-470d-8f23-9ef5a9383c48"> | <img width="350" alt="화면4" src="https://github.com/iHangbot/.github/assets/85922192/ae4af4ce-1cf2-4962-b112-c96e653ab472"> |
+| 키워드, 관심사 제공 기능 | 감정, 제안 제공 기능 | 
 
 <br/>
 
