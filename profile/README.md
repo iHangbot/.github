@@ -6,6 +6,7 @@
 ### Member :smirk:
 | [김예찬](https://github.com/tioon) | [박지민](https://github.com/Jimin0304) | [하윤철](https://github.com/Yoon-97) | [장규은](https://github.com/gyueunnim) |
 | :---: | :---: | :---: | :---: |
+| <img src="https://avatars.githubusercontent.com/u/59834576?v=4" width="150"/> | <img src="https://user-images.githubusercontent.com/74671573/206147703-b898f0dd-a87a-4bd4-99d8-4234b477990f.png" width="150"/> | <img src="https://avatars.githubusercontent.com/u/93638922?v=4" width="150"/> | <img src="https://avatars.githubusercontent.com/u/85922192?v=4" width="150"/> |
 | Back-End | Back-End | Back-End | Front-End |
 
 <br/>
